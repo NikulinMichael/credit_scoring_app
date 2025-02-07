@@ -39,4 +39,4 @@
 
 ## Ссылки
 - Датасет: [Default of Credit Card Clients Dataset](https://www.kaggle.com/uciml/default-of-credit-card-clients-dataset).
-- Репозиторий проекта: [GitHub](https://github.com/your-username/your-repo-name).
+- Репозиторий проекта: [GitHub](https://github.com/NikulinMichael/credit_scoring_app/tree/master).
